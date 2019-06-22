@@ -13,3 +13,4 @@ We choose vertical 2 in agriculture
 Create an immutable Land Lease Ledger (LLL) where the involved parties 
 can enter agreements which are fed by historic land usage data, trusted events and benefit 
 from a data-driven revenue and risk sharing mechanisms.
+Select your crop and the location of your field. Automated payouts are triggered by drought or flood events reported by government agencies.
