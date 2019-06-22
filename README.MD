@@ -14,11 +14,14 @@ Our backend is writen using corda (lender, leaser, notary) and possses mutliple 
 * Lease the Land: post / http://52.209.35.41:8081/api/leaser/soil (edited) 
 
 ## Frontend
-https://github.com/blockbyte-sbhack19/frontend in branch master
+* https://github.com/blockbyte-sbhack19/frontend in branch master
+
 Our frontend use Google Flutter to offer a mobile first experience on iOS and Android (and later web and desktop as promised by Google) using one codebase.
 
+
 ## Parametric micro insurance product "DRY"
-https://github.com/blockbyte-sbhack19/insurance in branch master
+* https://github.com/blockbyte-sbhack19/insurance in branch master
+
 This piece of solidity code is depyloyed on ropsten at 0x0000000000000
 Farmer can insure for the case where their parcel see no rain for 30 days,
 * farmer pay 1 ETH to the insurance
