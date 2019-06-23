@@ -15,6 +15,7 @@ Our backend is writen using corda (lender, leaser, notary) and possses mutliple 
 
 ## Frontend
 * https://github.com/blockbyte-sbhack19/frontend in branch master
+https://github.com/blockbyte-sbhack19/frontend-design/ in branch master
 
 Our frontend use Google Flutter to offer a mobile first experience on iOS and Android (and later web and desktop as promised by Google) using one codebase.
 
