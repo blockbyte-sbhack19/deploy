@@ -8,7 +8,7 @@ from a data-driven revenue and risk sharing mechanisms.
 Select your crop and the location of your field. Automated payouts are triggered by drought or flood events reported by government agencies.
 
 # URL of our working application
-Our application is mobile first: iOS/Android, to see it live you need 
+Our application is mobile first: iOS/Android v1.0.2, to see it live you need 
 * Install TestFlight (https://developer.apple.com/testflight/) from App store on your iPhone 
 * Send an email to our team lead with your appleId 
 * You receive an email from Apple saying "You're invited to join a development team." click in email link and follow instructions (you're now part of the organization Blockbyte ;-))
