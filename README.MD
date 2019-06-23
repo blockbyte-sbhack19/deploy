@@ -12,7 +12,10 @@ Our application is mobile first: iOS/Android, to see it live you need
 * Install TestFlight (https://developer.apple.com/testflight/) from App store on your iPhone 
 * Send an email to our team lead with your appleId 
 * You receive an email from Apple saying "You're invited to join a development team." click in email link and follow instructions (you're now part of the organization Blockbyte ;-))
+* Send an email to our team lead, that you accepted the invitation
 * You receive another email with subject "BlockByte has invited you to test Lend It!."
+* Open the TestFlight app and install Lend-It
+* Happy testing :)
 
 # URL of our github project
 https://github.com/blockbyte-sbhack19
