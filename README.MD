@@ -7,27 +7,22 @@ https://developer.apple.com/testflight/
 https://github.com/blockbyte-sbhack19
 
 ## Backend
-https://github.com/blockbyte-sbhack19/backend in branch develop
+https://github.com/blockbyte-sbhack19/backend in branch master
 Our backend is writen using corda (lender, leaser, notary) and possses mutliple endpoint
-* Offer the Land: post / http://52.209.35.41:8081/api/lender/soil (edited) 
-* Search the Lands: post / http://52.209.35.41:8081/api/leaser/soil/filter (edited) 
-* Lease the Land: post / http://52.209.35.41:8081/api/leaser/soil (edited) 
+* Offer the Land: post / http://52.209.35.41:8081/api/lender/soil 
+* Search the Lands: post / http://52.209.35.41:8081/api/leaser/soil/filter 
+* Lease the Land: post / http://52.209.35.41:8081/api/leaser/soil 
 
 ## Frontend
 * https://github.com/blockbyte-sbhack19/frontend in branch master
 
 Our frontend use Google Flutter to offer a mobile first experience on iOS and Android (and later web and desktop as promised by Google) using one codebase.
 
-
 ## Parametric micro insurance product "DRY"
 * https://github.com/blockbyte-sbhack19/insurance in branch master
 
-This piece of solidity code is depyloyed on ropsten at 0x0000000000000
-Farmer can insure for the case where their parcel see no rain for 30 days,
-* farmer pay 1 ETH to the insurance
-* get 2 ETH back automatically if condition are met
 how it is working?
-it use http://www.oraclize.it/ and query data from openweatherdata every day for every parcel.
+it use http://www.oraclize.it/ and query data from openweatherdata every day for every parcel every day.
 If for more than 30 days no rains are happening, the smart contract will pay automatically 2 ETH to all farmer that have pay a premium of 1 ETH before (today - 30 days) after 30 days pass the money will be kept by the insurer
 the owner of the smart contract is the INSURER, and it collect payments from farmer
 
