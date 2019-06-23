@@ -28,7 +28,8 @@ Our frontend use Google Flutter to offer a mobile first experience on iOS and An
 
 ## Backend
 https://github.com/blockbyte-sbhack19/backend in branch master
-Our backend is writen using corda (lender, leaser, notary) and posseses mutliple web endpoints
+
+Our backend is writen using Corda (lender, leaser, notary) and posseses mutliple web endpoints
 
 ## Parametric micro insurance product "DRY"
 * https://github.com/blockbyte-sbhack19/insurance in branch master
