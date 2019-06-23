@@ -10,8 +10,9 @@ Select your crop and the location of your field. Automated payouts are triggered
 # URL of our working application
 Our application is mobile first: iOS/Android, to see it live you need 
 * Install TestFlight (https://developer.apple.com/testflight/) from App store: 
-* send an email to our team lead with your appleId 
-* you will be able to enjoy LendIt short after
+* Send an email to our team lead with your appleId 
+* You receive an email from Apple saying "You're invited to join a development team." click in email link and follow instructions (you're now part of the organization Blockbyte ;-))
+* You receive another email with subject "BlockByte has invited you to test Lend It!."
 
 # URL of our github project
 https://github.com/blockbyte-sbhack19
