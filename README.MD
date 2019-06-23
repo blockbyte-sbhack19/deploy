@@ -34,7 +34,6 @@ Our backend is writen using Corda (lender, leaser, notary) and posseses mutliple
 ## Parametric micro insurance product "DRY"
 * https://github.com/blockbyte-sbhack19/insurance in branch master
 
-how it is working?
 it use http://www.oraclize.it/ and query data from openweatherdata every day for every parcel (lat, long).
 If for more than 30 days it is not raining, the smart contract will pay automatically 2 ETH to all farmer that have pay a premium of 1 ETH before (today - 30 days) after 60 days pass the money will be kept by the insurer
 the owner of the smart contract is the INSURER, and it collect payments from farmers
